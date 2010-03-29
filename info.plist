@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Sequel</string>
+	<key>ordering</key>
+	<array>
+		<string>CA139574-CB57-40D1-9A88-EBFB62A52F1B</string>
+		<string>09D4E5AE-B85E-409A-B1DD-7617E014990D</string>
+		<string>A5B4F074-3FD7-4B75-8630-60FDE6000ADB</string>
+		<string>0D9AB201-7544-4D00-8099-E28ECD45EA89</string>
+		<string>5561351E-7E17-4359-A371-964DD029AC3D</string>
+		<string>883C8906-DD94-416B-9E27-75CD372F1415</string>
+		<string>37074357-E16D-4729-AF3C-3E02FD3F4928</string>
+		<string>A44ECD32-C203-49A6-AD8B-A45B59E7C378</string>
+		<string>575ED2B6-BD24-401E-8DAB-26B10B8B6A3A</string>
+		<string>326C0540-C4F0-41BD-B6D6-18163B2FDB7D</string>
+		<string>3E1A1E0D-081A-4578-8A0E-D7A58E7BC19F</string>
+	</array>
+	<key>uuid</key>
+	<string>846258F4-2FB2-41D8-9006-24C27C750B5D</string>
+</dict>
+</plist>

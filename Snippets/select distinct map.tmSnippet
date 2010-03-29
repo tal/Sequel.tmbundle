@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>select(:${1:column}).distinct.map(:$1)</string>
+	<key>name</key>
+	<string>select distinct map</string>
+	<key>scope</key>
+	<string>source.ruby.sequel</string>
+	<key>tabTrigger</key>
+	<string>selm</string>
+	<key>uuid</key>
+	<string>575ED2B6-BD24-401E-8DAB-26B10B8B6A3A</string>
+</dict>
+</plist>

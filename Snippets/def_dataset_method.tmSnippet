@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>def_dataset_method ${1::name} do${2/(^(?&lt;var&gt;\s*[a-z_][a-zA-Z0-9_]*\s*)(,\g&lt;var&gt;)*,?\s*$)|.*/(?1: |)/}${2:variable}${2/(^(?&lt;var&gt;\s*[a-z_][a-zA-Z0-9_]*\s*)(,\g&lt;var&gt;)*,?\s*$)|.*/(?1:|)/}
+	$0
+end</string>
+	<key>name</key>
+	<string>def_dataset_method</string>
+	<key>scope</key>
+	<string>source.ruby.sequel</string>
+	<key>tabTrigger</key>
+	<string>def_</string>
+	<key>uuid</key>
+	<string>A5B4F074-3FD7-4B75-8630-60FDE6000ADB</string>
+</dict>
+</plist>
